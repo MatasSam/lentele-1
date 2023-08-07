@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+table {
+    margin: 50px auto;
+    border: 2px solid #FEC107;
+    border-collapse: collapse;
+    font-family: poppins;
+    width: 80%;
+}
+
+td, th {
+    border: 2px solid #FEC107;
+    padding: 20px;
+}
+
+.spalva {
+    background: #E5AE30;
+}
+
+thead {
+    background: #FEC107;
+    text-align: center;
+}
+
+tbody {
+    background: #382C6E;
+    color: white;
+    text-align: left;
+}
+
